@@ -1,0 +1,15 @@
+{
+  "name": "queue",
+  "version": "0.0.1",
+  "description": "Queue data structure implemented in Node",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "author": "Tatsuya Oiwa <tatsuyaoiw@gmail.com>",
+  "license": "MIT"
+}
